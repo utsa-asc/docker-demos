@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FacilityData>
+  <Facility>
+    <FacilityID>2002</FacilityID>
+    <Description>Bauerle Road Garage</Description>
+    <Occupancy>
+      <OccupancyType>Hourly</OccupancyType>
+      <Capacity>526</Capacity>
+      <Occupied>420</Occupied>
+      <Available>106</Available>
+      <Timestamp>8/3/2017 3:51:28 PM</Timestamp>
+    </Occupancy>
+    <Occupancy>
+      <OccupancyType>Permit Holder</OccupancyType>
+      <Capacity>570</Capacity>
+      <Occupied>149</Occupied>
+      <Available>421</Available>
+      <Timestamp>8/3/2017 3:51:28 PM</Timestamp>
+    </Occupancy>
+  </Facility>
+  <Facility>
+    <FacilityID>2004</FacilityID>
+    <Description>Brackenridge Ave Lot 3</Description>
+    <Occupancy>
+      <OccupancyType>Hourly</OccupancyType>
+      <Capacity>408</Capacity>
+      <Occupied>9</Occupied>
+      <Available>399</Available>
+      <Timestamp>8/3/2017 3:51:28 PM</Timestamp>
+    </Occupancy>
+  </Facility>
+  <Facility>
+    <FacilityID>2005</FacilityID>
+    <Description>Brackenridge Ave Lot 4</Description>
+    <Occupancy>
+      <OccupancyType>Hourly</OccupancyType>
+      <Capacity>453</Capacity>
+      <Occupied>2</Occupied>
+      <Available>451</Available>
+      <Timestamp>8/3/2017 3:51:28 PM</Timestamp>
+    </Occupancy>
+  </Facility>
+  <Facility>
+    <FacilityID>2006</FacilityID>
+    <Description>Brackenridge Ave Lot 5</Description>
+    <Occupancy>
+      <OccupancyType>Hourly</OccupancyType>
+      <Capacity>559</Capacity>
+      <Occupied>0</Occupied>
+      <Available>559</Available>
+      <Timestamp>8/3/2017 3:51:28 PM</Timestamp>
+    </Occupancy>
+  </Facility>
+  <Facility>
+    <FacilityID>2007</FacilityID>
+    <Description>East Campus Lots</Description>
+    <Occupancy>
+      <OccupancyType>Hourly</OccupancyType>
+      <Capacity>1113</Capacity>
+      <Occupied>14</Occupied>
+      <Available>1099</Available>
+      <Timestamp>8/3/2017 3:51:28 PM</Timestamp>
+    </Occupancy>
+  </Facility>
+  <Facility>
+    <FacilityID>2001</FacilityID>
+    <Description>Tobin Ave Garage</Description>
+    <Occupancy>
+      <OccupancyType>Hourly</OccupancyType>
+      <Capacity>73</Capacity>
+      <Occupied>12</Occupied>
+      <Available>61</Available>
+      <Timestamp>8/3/2017 3:51:28 PM</Timestamp>
+    </Occupancy>
+    <Occupancy>
+      <OccupancyType>Permit Holder</OccupancyType>
+      <Capacity>520</Capacity>
+      <Occupied>260</Occupied>
+      <Available>260</Available>
+      <Timestamp>8/3/2017 3:51:28 PM</Timestamp>
+    </Occupancy>
+  </Facility>
+  <Facility>
+    <FacilityID>2000</FacilityID>
+    <Description>Ximenes Ave Garage</Description>
+    <Occupancy>
+      <OccupancyType>Permit Holder</OccupancyType>
+      <Capacity>175</Capacity>
+      <Occupied>51</Occupied>
+      <Available>124</Available>
+      <Timestamp>8/3/2017 3:51:28 PM</Timestamp>
+    </Occupancy>
+    <Occupancy>
+      <OccupancyType>Hourly</OccupancyType>
+      <Capacity>287</Capacity>
+      <Occupied>107</Occupied>
+      <Available>180</Available>
+      <Timestamp>8/3/2017 3:51:28 PM</Timestamp>
+    </Occupancy>
+  </Facility>
+  <ParkingOperation>
+    <SiteName>UTSA Campus Services</SiteName>
+    <System>T2 Flex</System>
+    <Version>15.4.524</Version>
+  </ParkingOperation>
+</FacilityData>
