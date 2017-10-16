@@ -1,2 +1,5 @@
 mysql/cascade.sql
 mysql/mysql-data
+tomcat/webapps/ROOT
+.DS_Store
+**/.DS_Store
