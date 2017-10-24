@@ -6,4 +6,4 @@
 ##                     so we can connect to mysql from the host, if needed
 ## my-mysql         :  the name of the container given in the docker build step
 
-docker run -it --rm -p 3306:3306 -v $(pwd)/mysql-data:/var/lib/mysql my-mysql
+docker run -it --rm -p 3302:3306 -v $(pwd)/mysql-data:/var/lib/mysql my-mysql
